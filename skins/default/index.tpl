@@ -29,7 +29,6 @@
   <link rel="apple-touch-icon" sizes="120x120" href="/touch-icon-iphone-retina.png">
   <link rel="apple-touch-icon" sizes="152x152" href="/touch-icon-ipad-retina.png">
 
-  <link href="/vendor/public/video.js/dist/video-js.min.css" rel="stylesheet">
   <style><?=$style?></style>
   <!--[if lt IE 9]>
   <script src="/skins/default/js/ielt9.min.js" defer></script><![endif]-->
@@ -96,6 +95,8 @@
     <p>&copy; Праздничное агентство &laquo;Vatel&raquo; &mdash; музыкальный колектив на праздник в Москве и МО</p>
   </div>
 </footer>
+
+<link rel="stylesheet" property="stylesheet" href="/vendor/public/video.js/dist/video-js.min.css">
 
 <div id="scroll-top"><span>›</span></div>
 
