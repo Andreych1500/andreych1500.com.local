@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="<?=(($lang == Core::$SITE_LANG[0])? Core::$SITE_LANG[0] : $lang)?>" <?=(isset($contentOG)? 'prefix="og: http://ogp.me/ns#"' : "")?>>
+<html lang="<?=(($lang == Core::$SITE_LANG[0])? (Core::$SITE_LANG[0] == 'ua'? 'uk' : Core::$SITE_LANG[0]) : $lang)?>" <?=(isset($contentOG)? 'prefix="og: http://ogp.me/ns#"' : "")?>>
 <head>
   <meta charset="UTF-8">
   <title><?=Core::$META['title']?></title>
@@ -49,8 +49,9 @@
       "telephone": "+7 (495) 760-96-50",
       "email": "test@test.test",
       "address": {
+        "name": "Vatel корпоративы",
         "@type": "PostalAddress",
-        "addressLocality": "Sity, Country",
+        "addressLocality": "Sity, Country"
       }
     }
 

@@ -1,6 +1,6 @@
 <div class="fix-position main-top">
   <div class="slider-block">
-    <h1>ПРОФЕССИОНАЛЬНАЯ ВЕДУЩАЯ И ПЕВИЦА <p>СВЕТЛАНА ЧУМАКО ВА НА ВАШЕМ ПРАЗДНИКЕ</p></h1>
+    <h1>ПРОФЕССИОНАЛЬНАЯ ВЕДУЩАЯ И ПЕВИЦА <span>СВЕТЛАНА ЧУМАКО ВА НА ВАШЕМ ПРАЗДНИКЕ</span></h1>
 
     <?php if($main_banner->num_rows > 0){ ?>
       <div class="main-banner">
@@ -116,7 +116,7 @@
       <div class="circle-photo">
         <img src="/skins/default/img/AOVgCq-1Bds.jpg" alt="photo" title="photo">
       </div>
-      <p class="header" iteprop="name">&#171;...наша свадьба прошла на веселой и позитивной волне, все гости прибывали в отличном настроении&#187;</p>
+      <p class="header" itemprop="name">&#171;...наша свадьба прошла на веселой и позитивной волне, все гости прибывали в отличном настроении&#187;</p>
       <p class="text" itemprop="commentText">Уважаемая Светлана!!! Благодарим Вас и Александра за восхитительное проведение нашей свадьбы! Благодаря Вашему мастерству, наша свадьба прошла на веселой и позитивной волне, все гости прибывали в отличном настроении, а мы просто наслаждались этим трогательным и счастливейшем днем нашей жизни. Отдельное спасибо, что учли все наши пожелания, даже небольшие нюансы не пропустили. Желаем от нашей семьи, которая началась так весело и счастливо, всех благ Вам, успехов, благополучия и здоровья!</p>
       <p class="author" itemprop="creator">Артур и Амалия</p>
     </div>
@@ -125,7 +125,7 @@
       <div class="circle-photo">
         <img src="/skins/default/img/go-life-lg-c8f28452d3.jpg" alt="photo" title="photo">
       </div>
-      <p class="header" iteprop="name">&#171;...получили огромное удовольствие и массу позитивных эмоций&#187;</p>
+      <p class="header" itemprop="name">&#171;...получили огромное удовольствие и массу позитивных эмоций&#187;</p>
       <p class="text" itemprop="commentText">Нам хотелось бы поблагодарить ведущую и певицу Светлану Чумакову за профессионализм, креативность, отзывчивость и стремление сделать из любого мероприятия что-то особенное. Сотрудники нашей компании получили огромное удовольствие и массу позитивных эмоций от организованного Вами вечера.</p>
       <p class="author" itemprop="creator">Ген. директор ООО &#187;Гоу-Лайф&#187; Полетаев В. А.</p>
     </div>
@@ -188,7 +188,7 @@
         <img src="/skins/default/img/phoca_thumb_l_111.jpg" alt="photo" title="photo">
       </div>
       <div class="circle-photo min-photo">
-        <img src="/skins/default/img/phoca_thumb_l_troynov- small.jpg" alt="photo" title="photo">
+        <img src="/skins/default/img/phoca_thumb_l_troynov-small.jpg" alt="photo" title="photo">
       </div>
       <div class="circle-photo min-photo">
         <img src="/skins/default/img/phoca_thumb_l_x_4e17f845.jpg" alt="photo" title="photo">
