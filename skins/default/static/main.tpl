@@ -144,35 +144,35 @@
     <div class="separator"></div>
     <div class="item">
       <div class="circle-photo">
-        <img src="/skins/default/img/DPP_23.JPG" alt="photo" title="photo">
+        <img src="/skins/default/img/DPP_23.jpg" alt="photo" title="photo">
       </div>
       <p>Перезваниваю вам в течение нескольких часов</p>
     </div>
     <div class="separator"></div>
     <div class="item">
       <div class="circle-photo">
-        <img src="/skins/default/img/MPj042303000001.jpeg" alt="photo" title="photo">
+        <img src="/skins/default/img/MPj042303000001.jpg" alt="photo" title="photo">
       </div>
       <p>Встречаемся лично, что исключает многие неприятные ситуации</p>
     </div>
     <div class="separator"></div>
     <div class="item">
       <div class="circle-photo min-photo">
-        <img src="/skins/default/img/IMG_2608.JPG" alt="photo" title="photo">
+        <img src="/skins/default/img/IMG_2608.jpg" alt="photo" title="photo">
       </div>
       <p>Определяем сценарий по вашему личному заказу</p>
     </div>
     <div class="separator"></div>
     <div class="item">
       <div class="circle-photo">
-        <img src="/skins/default/img/DPP_0520.JPG" alt="photo" title="photo">
+        <img src="/skins/default/img/DPP_0520.jpg" alt="photo" title="photo">
       </div>
       <p>Готовим праздник</p>
     </div>
     <div class="separator"></div>
     <div class="item">
       <div class="circle-photo min-photo">
-        <img src="/skins/default/img/DPP_1522.JPG" alt="photo" title="photo">
+        <img src="/skins/default/img/DPP_1522.jpg" alt="photo" title="photo">
       </div>
       <p>Проведение мероприятия и ваши позитивные змоции</p>
     </div>
@@ -214,13 +214,13 @@
       </video>
     </div>
     <div class="album-photos">
-      <a href="/skins/default/img/DPP_767.JPG"><img src="/skins/default/img/DPP_767.JPG" alt="photo1" title="photo1"></a>
+      <a href="/skins/default/img/DPP_767.jpg"><img src="/skins/default/img/DPP_767.jpg" alt="photo1" title="photo1"></a>
       <a href="/skins/default/img/x_4410006c.jpg"><img src="/skins/default/img/x_4410006c.jpg" alt="photo2" title="photo2"></a>
       <a href="/skins/default/img/x_4410006c.jpg"><img src="/skins/default/img/x_4410006c.jpg" alt="photo3" title="photo3"></a>
-      <a href="/skins/default/img/DPP_86.JPG"><img src="/skins/default/img/DPP_86.JPG" alt="photo4" title="photo4"></a>
-      <a href="/skins/default/img/DPP_496.JPG"><img src="/skins/default/img/DPP_496.JPG" alt="photo5" title="photo5"></a>
-      <a href="/skins/default/img/DPP_790.JPG"><img src="/skins/default/img/DPP_790.JPG" alt="photo6" title="photo6"></a>
-      <a href="/skins/default/img/DPP_008.JPG"><img src="/skins/default/img/DPP_008.JPG" alt="photo7" title="photo7"></a>
+      <a href="/skins/default/img/DPP_86.jpg"><img src="/skins/default/img/DPP_86.jpg" alt="photo4" title="photo4"></a>
+      <a href="/skins/default/img/DPP_496.jpg"><img src="/skins/default/img/DPP_496.jpg" alt="photo5" title="photo5"></a>
+      <a href="/skins/default/img/DPP_790.jpg"><img src="/skins/default/img/DPP_790.jpg" alt="photo6" title="photo6"></a>
+      <a href="/skins/default/img/DPP_008.jpg"><img src="/skins/default/img/DPP_008.jpg" alt="photo7" title="photo7"></a>
       <a href="/skins/default/img/IMG_3809.jpg"> <img src="/skins/default/img/IMG_3809.jpg" alt="photo8" title="photo8"></a>
       <a href="/skins/default/img/x_4410006c.jpg"><img src="/skins/default/img/x_4410006c.jpg" alt="photo9" title="photo9"></a>
     </div>

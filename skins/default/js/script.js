@@ -40,10 +40,10 @@ $(document).ready(function () {
 
     // Video js
     videojs('cool-video1', {
-        "controls": true,
-        "autoplay": false,
-        "preload": "auto",
-        "poster": "/skins/default/img/video-dp.png",
+        controls: true,
+        autoplay: false,
+        preload: "none",
+        poster: "/skins/default/img/video-dp.png",
         controlBar: {
             volumeMenuButton: {
                 inline: false,
