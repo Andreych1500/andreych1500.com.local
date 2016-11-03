@@ -92,7 +92,7 @@ class Pagination {
             <a href="<?=$url.'?numPage='.($active + 1)?>">&gt;</a>
           <?php } ?>
         </div>
-        <?
+        <?php
         self::$pagination['pagination'] = ob_get_contents();
         ob_get_clean();
 

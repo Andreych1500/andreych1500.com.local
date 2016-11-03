@@ -144,7 +144,7 @@
     <div class="separator"></div>
     <div class="item">
       <div class="circle-photo">
-        <img src="/skins/default/img/DPP_23.jpg" alt="photo" title="photo">
+        <img src="/skins/default/img/DPP_23.JPG" alt="photo" title="photo">
       </div>
       <p>Перезваниваю вам в течение нескольких часов</p>
     </div>
@@ -158,7 +158,7 @@
     <div class="separator"></div>
     <div class="item">
       <div class="circle-photo min-photo">
-        <img src="/skins/default/img/IMG_2608.jpg" alt="photo" title="photo">
+        <img src="/skins/default/img/IMG_2608.JPG" alt="photo" title="photo">
       </div>
       <p>Определяем сценарий по вашему личному заказу</p>
     </div>
@@ -172,7 +172,7 @@
     <div class="separator"></div>
     <div class="item">
       <div class="circle-photo min-photo">
-        <img src="/skins/default/img/DPP_1522.jpg" alt="photo" title="photo">
+        <img src="/skins/default/img/DPP_1522.JPG" alt="photo" title="photo">
       </div>
       <p>Проведение мероприятия и ваши позитивные змоции</p>
     </div>
