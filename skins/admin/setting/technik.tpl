@@ -24,7 +24,7 @@
     <?php if(!empty($arResult['brandPhoto'])){ ?>
       <img src="<?=$arResult['brandPhoto']?>" alt="<?=$arResult['brand_site']?>">
     <?php } ?>
-    <img src="/skins/admin/img/mails/pattern.png" alt="Technical work">
+    <img src="/skins/admin/img/technikal.png" alt="Technical work">
     <p>The site is currently unavailable due to ongoing maintenance. Please check back soon. We sincerely apologize for the inconvenience.</p>
   </div>
 </main>
