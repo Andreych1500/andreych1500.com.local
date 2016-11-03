@@ -204,7 +204,7 @@
   <div class="content-file">
     <p>ОТЧЕТЫ С ПРОВЕДЕННЫХ МНОЙ МЕРОПРИЯТИЙ</p>
     <div class="video">
-      <iframe src="https://www.youtube.com/embed/jKbmd1QJWI4" frameborder="0" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/jKbmd1QJWI4" allowfullscreen></iframe>
 
       <video id="cool-video1" class="video-js">
         <source type="video/flash" src="/uploaded/videos/test.flv">
