@@ -32,9 +32,7 @@
   <style><?=$style?></style>
   <!--[if lt IE 9]>
   <script src="/skins/default/js/ielt9.min.js" defer></script><![endif]-->
-
   <script src="/vendor/public/jquery/dist/jquery.min.js" defer></script>
-  <script src="/vendor/public/jquery.cookie/jquery.cookie.min.js" defer></script>
   <?=(count(Core::$JS)? implode("\n", Core::$JS) : '')?>
   <script src="/skins/default/js/script.min.js?v=<?=$vF?>" defer></script>
 

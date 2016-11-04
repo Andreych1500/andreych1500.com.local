@@ -43,7 +43,7 @@ $(document).ready(function () {
         controls: true,
         autoplay: false,
         preload: "none",
-        poster: "/skins/default/img/video-dp.png",
+        poster: "/skins/default/img/video-dp.jpg",
         controlBar: {
             volumeMenuButton: {
                 inline: false,

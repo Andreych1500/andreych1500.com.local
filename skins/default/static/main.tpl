@@ -58,18 +58,18 @@
 
     <div class="i-about-company">
       <p>Я РАБОТАЮ ДЛЯ ТАКИХ КОМПАНИЙ КАК:</p>
-      <img src="/skins/default/img/pirog-dvorik-lg-77a6174171.png" alt="photo1" title="photo1">
-      <img src="/skins/default/img/Vodovoz.png" alt="photo1" title="photo2">
-      <img src="/skins/default/img/part-linder-89c6cfc8c0.png" alt="photo1" title="photo3">
-      <img src="/skins/default/img/1russkiy-bcc4bc1ab8.png" alt="photo1" title="photo4">
-      <img src="/skins/default/img/part-shantil-5204ff2257.png" alt="photo1" title="photo5">
-      <img src="/skins/default/img/part-globez-9c8b9f9cfe.png" alt="photo1" title="photo6">
-      <img src="/skins/default/img/ermak-lg-44014cc059.png" alt="photo1" title="photo7">
-      <img src="/skins/default/img/drofa.png" alt="photo1" title="photo8">
-      <img src="/skins/default/img/part-united-1da573dce6.png" alt="photo1" title="photo9">
-      <img src="/skins/default/img/nika-lg-c01394beb9.png" alt="photo1" title="photo10">
-      <img src="/skins/default/img/go-life-lg-c8f28452d3.png" alt="photo1" title="photo11">
-      <img src="/skins/default/img/part-pnevmo2-4c9c274d86.png" alt="photo1" title="photo12">
+      <img src="/skins/default/img/pirog-dvorik.png" alt="photo1" title="photo1">
+      <img src="/skins/default/img/vodovoz.png" alt="photo2" title="photo2">
+      <img src="/skins/default/img/part-linder.png" alt="photo3" title="photo3">
+      <img src="/skins/default/img/russkiy.png" alt="photo4" title="photo4">
+      <img src="/skins/default/img/part-shantil.png" alt="photo5" title="photo5">
+      <img src="/skins/default/img/part-globe.png" alt="photo6" title="photo6">
+      <img src="/skins/default/img/ermak.png" alt="photo7" title="photo7">
+      <img src="/skins/default/img/drofa.png" alt="photo8" title="photo8">
+      <img src="/skins/default/img/part-united.png" alt="photo9" title="photo9">
+      <img src="/skins/default/img/nika.png" alt="photo10" title="photo10">
+      <img src="/skins/default/img/go-life.png" alt="photo11" title="photo11">
+      <img src="/skins/default/img/part-pnevmo.png" alt="photo12" title="photo12">
     </div>
   </div>
 </div>
@@ -113,20 +113,16 @@
   <div class="comments-list">
     <p>ОТЗЫВЫ</p>
     <div class="comment" itemscope itemtype="http://schema.org/UserComments">
-      <div class="circle-photo">
-        <img src="/skins/default/img/AOVgCq-1Bds.jpg" alt="photo" title="photo">
-      </div>
+      <img src="/skins/default/img/golybku.jpg" alt="photo" title="photo">
       <p class="header" itemprop="name">&#171;...наша свадьба прошла на веселой и позитивной волне, все гости прибывали в отличном настроении&#187;</p>
-      <p class="text" itemprop="commentText">Уважаемая Светлана!!! Благодарим Вас и Александра за восхитительное проведение нашей свадьбы! Благодаря Вашему мастерству, наша свадьба прошла на веселой и позитивной волне, все гости прибывали в отличном настроении, а мы просто наслаждались этим трогательным и счастливейшем днем нашей жизни. Отдельное спасибо, что учли все наши пожелания, даже небольшие нюансы не пропустили. Желаем от нашей семьи, которая началась так весело и счастливо, всех благ Вам, успехов, благополучия и здоровья!</p>
+      <i class="text" itemprop="commentText">Уважаемая Светлана!!! Благодарим Вас и Александра за восхитительное проведение нашей свадьбы! Благодаря Вашему мастерству, наша свадьба прошла на веселой и позитивной волне, все гости прибывали в отличном настроении, а мы просто наслаждались этим трогательным и счастливейшем днем нашей жизни. Отдельное спасибо, что учли все наши пожелания, даже небольшие нюансы не пропустили. Желаем от нашей семьи, которая началась так весело и счастливо, всех благ Вам, успехов, благополучия и здоровья!</i>
       <p class="author" itemprop="creator">Артур и Амалия</p>
     </div>
 
     <div class="comment" itemscope itemtype="http://schema.org/UserComments">
-      <div class="circle-photo">
-        <img src="/skins/default/img/go-life-lg-c8f28452d3.jpg" alt="photo" title="photo">
-      </div>
+      <img src="/skins/default/img/go-life.jpg" alt="photo" title="photo">
       <p class="header" itemprop="name">&#171;...получили огромное удовольствие и массу позитивных эмоций&#187;</p>
-      <p class="text" itemprop="commentText">Нам хотелось бы поблагодарить ведущую и певицу Светлану Чумакову за профессионализм, креативность, отзывчивость и стремление сделать из любого мероприятия что-то особенное. Сотрудники нашей компании получили огромное удовольствие и массу позитивных эмоций от организованного Вами вечера.</p>
+      <i class="text" itemprop="commentText">Нам хотелось бы поблагодарить ведущую и певицу Светлану Чумакову за профессионализм, креативность, отзывчивость и стремление сделать из любого мероприятия что-то особенное. Сотрудники нашей компании получили огромное удовольствие и массу позитивных эмоций от организованного Вами вечера.</i>
       <p class="author" itemprop="creator">Ген. директор ООО &#187;Гоу-Лайф&#187; Полетаев В. А.</p>
     </div>
   </div>
@@ -136,44 +132,32 @@
   <div class="fix-position">
     <p>КАК Я РАБОТАЮ</p>
     <div class="item">
-      <div class="circle-photo min-photo">
-        <img src="/skins/default/img/A_woman_on_computer.jpg" alt="photo" title="photo">
-      </div>
+      <img src="/skins/default/img/woman-note.jpg" alt="photo" title="photo">
       <p>Звоните или оставляете заявку на сайте</p>
     </div>
     <div class="separator"></div>
     <div class="item">
-      <div class="circle-photo">
-        <img src="/skins/default/img/DPP_23.jpg" alt="photo" title="photo">
-      </div>
+      <img src="/skins/default/img/women-happy.jpg" alt="photo" title="photo">
       <p>Перезваниваю вам в течение нескольких часов</p>
     </div>
     <div class="separator"></div>
     <div class="item">
-      <div class="circle-photo">
-        <img src="/skins/default/img/MPj042303000001.jpg" alt="photo" title="photo">
-      </div>
+      <img src="/skins/default/img/coffe.jpg" alt="photo" title="photo">
       <p>Встречаемся лично, что исключает многие неприятные ситуации</p>
     </div>
     <div class="separator"></div>
     <div class="item">
-      <div class="circle-photo min-photo">
-        <img src="/skins/default/img/IMG_2608.jpg" alt="photo" title="photo">
-      </div>
+      <img src="/skins/default/img/img-women-list.jpg" alt="photo" title="photo">
       <p>Определяем сценарий по вашему личному заказу</p>
     </div>
     <div class="separator"></div>
     <div class="item">
-      <div class="circle-photo">
-        <img src="/skins/default/img/DPP_0520.jpg" alt="photo" title="photo">
-      </div>
+      <img src="/skins/default/img/zvezda.jpg" alt="photo" title="photo">
       <p>Готовим праздник</p>
     </div>
     <div class="separator"></div>
     <div class="item">
-      <div class="circle-photo min-photo">
-        <img src="/skins/default/img/DPP_1522.jpg" alt="photo" title="photo">
-      </div>
+      <img src="/skins/default/img/good-coorporative.jpg" alt="photo" title="photo">
       <p>Проведение мероприятия и ваши позитивные змоции</p>
     </div>
     <div class="separator"></div>
@@ -184,18 +168,10 @@
   <div class="fix-position">
     <p>Ведение праздника может быть в дуэте. А так же всегда рада рекомендовать вам своих друзей — лучших ведущих Москвы.</p>
     <div class="duet-photo">
-      <div class="circle-photo min-photo">
-        <img src="/skins/default/img/phoca_thumb_l_111.jpg" alt="photo" title="photo">
-      </div>
-      <div class="circle-photo min-photo">
-        <img src="/skins/default/img/phoca_thumb_l_troynov-small.jpg" alt="photo" title="photo">
-      </div>
-      <div class="circle-photo min-photo">
-        <img src="/skins/default/img/phoca_thumb_l_x_4e17f845.jpg" alt="photo" title="photo">
-      </div>
-      <div class="circle-photo min-photo">
-        <img src="/skins/default/img/phoca_thumb_l_x_55e27ddc.jpg" alt="photo" title="photo">
-      </div>
+      <img src="/skins/default/img/phoca_thumb_1.jpg" alt="photo" title="photo">
+      <img src="/skins/default/img/phoca_thumb_2.jpg" alt="photo" title="photo">
+      <img src="/skins/default/img/phoca_thumb_3.jpg" alt="photo" title="photo">
+      <img src="/skins/default/img/phoca_thumb_4.jpg" alt="photo" title="photo">
     </div>
   </div>
 </div>
@@ -213,16 +189,20 @@
         <source type="video/ogg" src="/uploaded/videos/test.ogv">
       </video>
     </div>
+
     <div class="album-photos">
-      <a href="/skins/default/img/DPP_767.jpg"><img src="/skins/default/img/DPP_767.jpg" alt="photo1" title="photo1"></a>
-      <a href="/skins/default/img/x_4410006c.jpg"><img src="/skins/default/img/x_4410006c.jpg" alt="photo2" title="photo2"></a>
-      <a href="/skins/default/img/x_4410006c.jpg"><img src="/skins/default/img/x_4410006c.jpg" alt="photo3" title="photo3"></a>
-      <a href="/skins/default/img/DPP_86.jpg"><img src="/skins/default/img/DPP_86.jpg" alt="photo4" title="photo4"></a>
-      <a href="/skins/default/img/DPP_496.jpg"><img src="/skins/default/img/DPP_496.jpg" alt="photo5" title="photo5"></a>
-      <a href="/skins/default/img/DPP_790.jpg"><img src="/skins/default/img/DPP_790.jpg" alt="photo6" title="photo6"></a>
-      <a href="/skins/default/img/DPP_008.jpg"><img src="/skins/default/img/DPP_008.jpg" alt="photo7" title="photo7"></a>
-      <a href="/skins/default/img/IMG_3809.jpg"> <img src="/skins/default/img/IMG_3809.jpg" alt="photo8" title="photo8"></a>
-      <a href="/skins/default/img/x_4410006c.jpg"><img src="/skins/default/img/x_4410006c.jpg" alt="photo9" title="photo9"></a>
+      <a href="/skins/default/img/albom-music1.jpg"><img src="/skins/default/img/albom-music1.jpg" alt="photo1" title="photo1"></a>
+      <a href="/skins/default/img/albom-music2.jpg"><img src="/skins/default/img/albom-music2.jpg" alt="photo2" title="photo2"></a>
+      <a href="/skins/default/img/albom-music3.jpg"><img src="/skins/default/img/albom-music3.jpg" alt="photo3" title="photo3"></a>
+      <a href="/skins/default/img/albom-music4.jpg"><img src="/skins/default/img/albom-music4.jpg" alt="photo4" title="photo4"></a>
+      <a href="/skins/default/img/albom-music5.jpg"><img src="/skins/default/img/albom-music5.jpg" alt="photo5" title="photo5"></a>
+      <a href="/skins/default/img/albom-music6.jpg"><img src="/skins/default/img/albom-music6.jpg" alt="photo6" title="photo6"></a>
+      <a href="/skins/default/img/albom-music7.jpg"><img src="/skins/default/img/albom-music7.jpg" alt="photo7" title="photo7"></a>
+      <a href="/skins/default/img/albom-music8.jpg"><img src="/skins/default/img/albom-music8.jpg" alt="photo8" title="photo8"></a>
+      <a href="/skins/default/img/albom-music9.jpg"><img src="/skins/default/img/albom-music9.jpg" alt="photo9" title="photo9"></a>
+      <a href="/skins/default/img/albom-music10.jpg"><img src="/skins/default/img/albom-music10.jpg" alt="photo10" title="photo10"></a>
+      <a href="/skins/default/img/albom-music11.jpg"><img src="/skins/default/img/albom-music11.jpg" alt="photo11" title="photo11"></a>
+      <a href="/skins/default/img/albom-music12.jpg"><img src="/skins/default/img/albom-music12.jpg" alt="photo12" title="photo12"></a>
     </div>
   </div>
 
