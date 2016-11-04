@@ -27,7 +27,7 @@
   <link rel="apple-touch-icon" sizes="120x120" href="/touch-icon-iphone-retina.png">
   <link rel="apple-touch-icon" sizes="152x152" href="/touch-icon-ipad-retina.png">
 
-  <style><?=$style?></style>
+  <style><?=file_get_contents(CORE::$ROOT.'/skins/default/css/style.min.css')?></style>
   <!--[if lt IE 9]>
   <script src="/skins/default/js/ielt9.min.js" defer></script><![endif]-->
   <script src="/vendor/public/jquery/dist/jquery.min.js" defer></script>
