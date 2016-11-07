@@ -91,7 +91,7 @@ class UploaderFiles {
 
     static function resizeImage($file, $width, $height){
 
-        if($width > 1100 || $height > 1100){
+        if($width > 1280 || $height > 1280){
             return array('error' => 'Розміри нового зображення занадто великі!');
         }
 
@@ -105,7 +105,33 @@ class UploaderFiles {
 
         switch($temp[2]){
             case 1:
-                $src_image = imagecreatefromgif($name);
+                $object = new Imagick($name);
+
+                if($object->getNumberImages() > 1){
+                    $image = $object->coalesceImages();
+
+                    foreach($image as $frame){
+                        $frame->cropImage(0, 0, 0, 0);
+                        $frame->thumbnailImage($new_width, $new_height);
+                        $frame->setImagePage($new_width, $new_height, 0, 0);
+                    }
+
+                    $image = $image->deconstructImages();
+                    $image->writeImages($name, true);
+
+                    return array('resize' => $file);
+                } else {
+                    $src_image = imagecreatefromgif($name);
+                    $colorTransparent = imagecolortransparent($src_image);
+
+                    if($colorTransparent >= 0 && $colorTransparent < imagecolorstotal($src_image)){
+                        imagepalettecopy($thumb, $src_image);
+                        imagefill($thumb, 0, 0, $colorTransparent);
+                        imagecolortransparent($thumb, $colorTransparent);
+                        imagetruecolortopalette($thumb, true, 256);
+                    }
+                }
+
                 break;
             case 2:
                 $src_image = imagecreatefromjpeg($name);
