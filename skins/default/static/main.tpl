@@ -1,4 +1,5 @@
 <div class="fix-position main-top">
+
   <div class="slider-block">
     <h1>ПРОФЕССИОНАЛЬНАЯ ВЕДУЩАЯ И ПЕВИЦА <span>СВЕТЛАНА ЧУМАКО ВА НА ВАШЕМ ПРАЗДНИКЕ</span></h1>
 
